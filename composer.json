@@ -1,0 +1,17 @@
+{
+    "name": "xprtdev/powerball",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XpertDev",
+            "email": "xprtdev@protonmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"xprtdev\\powerball\\": "src/"
+		}
+	},
+    "require": {}
+}
