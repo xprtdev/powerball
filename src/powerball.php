@@ -8,8 +8,7 @@ class Powerball {
 	private $start_time = '';
 
 	public function getStartRound() {
-		return $this->
-		
+		return $this->start_round;
 	}
 
 	public function getStartDateRound() {
